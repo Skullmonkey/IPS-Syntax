@@ -1,0 +1,24 @@
+Thank you for choosing to use the IPS Syntax highlighter and autocompleter.
+
+This plugin simply expands on the HTML syntax to add IPS functions and code snippets. It was created to increase efficiency while coding for IPS products. instead of typing out a full function, all you have to do is type a few letters and press tab.
+
+Ex: instead of typing 
+<if test="this == that">
+  Do this
+</if>
+
+You only have to type
+
+if(tab)this == that(tab)Do this(tab)
+
+and your done! The output will be the exact same as above!
+
+Autocomplete
+============
+The tab triggers and autocomplete list can be found here: https://github.com/Skullmonkey/IPS-Syntax/wiki/Autocomplete-List
+
+Contribute
+==========
+To contribute to the project, you have a couple of options:
+1. Fork the project on GitHub (https://github.com/Skullmonkey/IPS-Syntax), add your codes, and send a pull request for review.
+2. Open a ticket and categorize it as "Add string": https://github.com/Skullmonkey/IPS-Syntax/issues/new
