@@ -5,9 +5,9 @@ Syntax highlighter and autocomplete for Invision Powered products.
 This plugin simply expands on the HTML syntax to add IPS functions and code snippets. It was created to increase efficiency while coding for IPS products. instead of typing out a full function, all you have to do is type a few letters and press tab.
 
 Ex: instead of typing 
-<if test="this == that">
+``<if test="this == that">
   Do this
-</if>
+</if>``
 
 You only have to type
 
