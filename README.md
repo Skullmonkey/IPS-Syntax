@@ -23,11 +23,11 @@ The tab triggers and autocomplete list can be found <a href="https://github.com/
 Contribute
 ==========
 To contribute to the project, you have a couple of options:
+
+
 1. Fork the project, add your codes, and send a pull request for review.
 2. <a href="https://github.com/Skullmonkey/IPS-Syntax/issues/new">Open a ticket</a> and categorize it as "Add string".
 
 Other Notes
 ===========
 The project is still in very early development and it will be a while before it will be ready for primetime.
-
-If you have a suggestion to add a template, please post it in the bug tracker as a "Add string".
